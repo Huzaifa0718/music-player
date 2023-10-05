@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#name {
+  text-align: center;
+  font-size: 1.9rem;
+}
+
+#mymusic {
+
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 37%;
+  margin-bottom: 10%;
+}
+
+img {
+  border-radius: 100px;
+}
+
+#next {
+  margin: 3px;
+  margin-left: 45px;
+}
+
+#prev {
+  margin: 3px;
+  margin-left: ;
+}
+
+#play {
+  margin: 3px;
+  margin-left: 43px;
+
+}
+
+button {
+  background-color: #435B66;
+  border: hidden;
+}
+
+#mymusic {
+  padding:55px;
+  background-color: #435B66;
+}
